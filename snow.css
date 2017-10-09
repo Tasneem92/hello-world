@@ -1,0 +1,208 @@
+
+.main {
+	background-color: #CCC;
+	font-family: "Work Sans", sans-serif;
+	font-size: 1rem;
+	line-height: 1.65;
+	letter-spacing: .004em;
+	font-weight: 400;
+	color: #5f5f5f;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	}
+
+
+.headerstyle { 
+	font-size: small;
+	letter-spacing: .015em;
+	margin:2% 18% 0 25%;
+	 }
+
+.list-group-item { 
+	border: none; 
+	background-color: transparent; 
+	text-transform: uppercase;
+	}
+
+
+a { 
+	color: white;
+	}
+
+.master-bg {
+	background: url('/snow/snow-bg.jpg') no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 1280px;
+}
+
+.top {
+	margin: auto;
+	padding-top: 435px;
+	text-align: center;
+	color: #FDFDFD;
+	}
+
+.subtitle {
+	text-transform: uppercase;
+	font-size: .93rem;
+	letter-spacing: .2em;
+	margin-bottom: 1.1rem;
+	}
+
+h2, h1 {
+	font-weight: 700;
+	font-family: Playfair Display, serif;
+	}
+
+.contact, b {
+	color: black;
+	}
+	
+
+h4 {
+	font-family: Playfair Display, serif;
+	color: black;
+	font-weight: 600;
+	}
+
+.fa-chevron-circle-down {
+	font-size: 3em;
+	padding-top: 350px;
+	}
+
+#about, #projects {
+	margin: auto;
+	}
+
+.agency, .bestprojects, .latestblog {
+	color: black;
+	font-weight: 700;
+	}
+
+.icons {
+	min-height: 242px; 
+	background: url(/snow/black-bg.jpeg);
+	color: #CCC;
+	}
+
+.icon {
+	text-transform: uppercase;
+	font-size: small;
+	font-weight: 400;
+	padding-top: 90px;
+	}
+
+.item-image {
+   padding-bottom: 30px;
+
+	}
+
+.w-85 {
+	width:85%;
+}
+
+.carouselitems {
+		background: url(/snow/black-bg.jpeg);
+	}
+
+.items {
+	padding-top: 60px;
+	padding-bottom: 100px;
+	padding-left: 30%;
+	padding-right: 30%;
+	font-size: 1.585rem;
+        color:white;
+	}
+
+.quote {
+	font-style: italic;
+	font-family: "Playfair Display",serif;
+	}
+
+h2.hopkins {
+	font-size: medium;
+	}
+
+.logos {
+	background-color: #FFF;
+	padding-left: 13%;
+	}
+
+.logos img
+	{
+	width: 243px;
+	height: 196px;
+	}
+
+.cardimage {
+	height: 225px;
+	}
+
+.date {
+	text-transform: uppercase;
+	color: black;
+	font-size: small;
+	}
+
+.cardtext, .info {
+	font-family: "Playfair Display",serif;
+	letter-spacing: .0154em;
+	}
+	
+.cardbg {
+	background-color: #FAFAFA;
+	}
+
+.cards {
+	border: none;
+	}
+
+.contactinfo, .sendmessage {
+	padding-left: 10%;
+	padding-right: 10%;
+	}
+
+.yourtitle , textarea {
+	display: block;
+	width: 91%;
+	}
+
+input {
+	height: 50px;
+	margin-bottom: 30px;
+	}
+
+textarea {
+	height: 180px;
+	margin-bottom: 30px;
+	}
+
+.formbg {
+	background-color: #F6F6F6;
+	}
+
+.formmargin {
+	margin: auto;
+	}
+
+.ph {
+	padding-left: 15px;
+	padding-top: 7px;
+	
+	}
+
+.name, .email {
+	width: 45%;
+	}
+
+.footerbg {
+	background: url('https://www.w3schools.com/w3images/fjords.jpg');
+	background-repeat: no-repeat;
+	height: 300px;
+	}
+
+.footeroverlay {
+	background-color: rgba(12, 12, 12, 0.9);
+	}
